@@ -1,4 +1,4 @@
 # nodeOracleApp
-download the app codebase and run below commond 
-> npm i
-> npm run 
+download the app codebase and run below command 
+npm i
+npm run start

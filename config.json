@@ -1,0 +1,9 @@
+{
+  "dbConfig": {
+    "dbName": "",
+    "userName": "",
+    "dbPwd": "",
+    "dbBaseUrl": "localhost:1521"
+  },
+  "portNo": 3001
+}
